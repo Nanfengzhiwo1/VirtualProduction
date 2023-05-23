@@ -10,3 +10,5 @@ Animation：Yurie
 BGM：GARNiDELiA
 
 Shot：むむた
+
+Character:千駄ヶ谷渋
